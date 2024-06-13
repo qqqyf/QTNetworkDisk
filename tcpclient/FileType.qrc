@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloudIcon/dir.png</file>
+        <file>cloudIcon/file.png</file>
+    </qresource>
+</RCC>
